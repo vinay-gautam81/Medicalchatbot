@@ -1,0 +1,4 @@
+ctranformers==0.2.5
+sentences-transformaers==2.2.2
+pinecone-client
+langchain==0.0.225
