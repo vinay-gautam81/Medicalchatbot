@@ -1,4 +1,5 @@
-ctranformers==0.2.5
-sentences-transformaers==2.2.2
-pinecone-client
-langchain==0.0.225
+pip install ctransformers==0.2.5
+pip install sentence-transformers==2.6.0
+pip install pinecone-client
+pip install langchain==0.0.225
+pip install flask
